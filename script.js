@@ -1,7 +1,21 @@
+// variables for DOM objects
+//    - #search-term-input
+//    - #record-count
+//    - #start-year
+//    - #end-year
+//    - #search-submit-btn
+//    - #clear-btn
 
+// CSS classes for top article list
+//    - .articleHeading
+//    - .articleSummary
+//    - .articleAnchor
 
+// Click event listeners
+//  - #search-submit-btn
+//  - #clear-btn
 
-
+// 
 
 
 
